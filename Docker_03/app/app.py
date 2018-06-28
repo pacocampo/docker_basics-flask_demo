@@ -10,7 +10,7 @@ def index():
 
 @app.route("/info")
 def info():
-    return "Info page :)"
+    return "Info page :) with cloud"
 
 # Guard
 if __name__ == '__main__':
